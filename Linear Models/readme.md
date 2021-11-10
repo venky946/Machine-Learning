@@ -1,0 +1,1 @@
+Implementation of various linear models like SVM, Logistic regression, Linear regression and their behaviours on various cases like presence of outliers,intra correlation among features, regularization, platts scaling, etc. has been studied and documented
